@@ -9,3 +9,5 @@ Steps to run :
 
 
 LIVE LINK : https://tomarpraveengithub460.github.io/JS-Clock/
+
+Praveen Tomar
